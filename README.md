@@ -1,5 +1,6 @@
 # SyncHub
 目录高效同步工具,定时任务计划
+稳定版下载:  https://github.com/eckalhub/SyncHub/releases/download/1.23/SyncHub_Window_X64_v1.23.7z
 
 # SyncHub 目录文件同步 - 用户操作手册
 
