@@ -4,6 +4,7 @@
 > **更新日期**: 2026-01-03
 > 
 > **下载地址**: https://github.com/eckalhub/SyncHub/releases
+<img width="1822" height="867" alt="image" src="https://github.com/user-attachments/assets/248fc65b-24d3-4e1c-9af9-9be37931e72f" />
 
 ---
 
