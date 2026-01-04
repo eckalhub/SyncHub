@@ -2,6 +2,7 @@
 
 > **版本**: 1.59  
 > **更新日期**: 2026-01-03
+> 
 > **下载地址**: https://github.com/eckalhub/SyncHub/releases
 
 ---
